@@ -1,3 +1,3 @@
 | Content |
 |---------|
-|[WEEK 1](RS-Assignment/Week1.assignment.md)|
+|[WEEK 1](RS_Assignment/Week1.assignment.md)|
