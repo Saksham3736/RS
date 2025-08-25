@@ -104,8 +104,7 @@ $$
  📘 Concept:
 
 $$
-L_{\text{sensor}} = \tau \cdot L_{\text{surface}} + L_{\text{path}}
-\Rightarrow 21.2 = (0.8 \cdot 20) + L_{\text{path}} \Rightarrow L_{\text{path}} = 5.2
+L_{\text{sensor}}=\tau \cdot L_{\text{surface}}+L_{\text{path}}\Rightarrow21.2=(0.8\cdot20)+L_{\text{path}} \Rightarrow L_{\text{path}}=5.2
 $$
 
 * **Path radiance** is the contribution from atmospheric scattering — **adds noise** to measurements.
@@ -159,7 +158,7 @@ $$
  📘 Concept:
 
 * Solid angle for full sphere:
-$$\Omega = 4\pi \, \text{sr}$$
+$$\Omega = 4\pi\text{sr}$$
 
 * Important in **radiance** calculations (W/m²·sr).
 
@@ -167,7 +166,7 @@ $$\Omega = 4\pi \, \text{sr}$$
 
 #### **Question 9:**
 
-**The equation $\phi = \dfrac{dQ}{dt}$ gives:**
+**The equation $$\phi = \dfrac{dQ}{dt}$$ gives:**
 
 * A) **Radiant Flux** ✅
 * B) Radiant Energy Density
@@ -178,8 +177,8 @@ $$\Omega = 4\pi \, \text{sr}$$
 
  📘 Concept:
 
-* $Q$: Radiant energy (Joules)
-* $\phi$: Radiant flux = Energy per unit time (Watts)
+* $$Q$$: Radiant energy (Joules)
+* $$\phi$$: Radiant flux = Energy per unit time (Watts)
 * Other terms (radiance, intensity) involve area or solid angle.
 
 ---
