@@ -8,7 +8,7 @@
 
 **Answer:** The correct order of increasing frequency is **L, X, K, Ka**.
 
-**Concept:** Microwave bands are classified based on their frequency. As the speed of light ($c$) is constant, frequency ($\nu$) and wavelength ($\lambda$) are inversely proportional ($c=\nu \lambda$). This means that as frequency increases, wavelength decreases.Based on the provided table, the approximate frequency ranges for each band are:
+**Concept:** Microwave bands are classified based on their frequency. As the speed of light ($c$) is constant, frequency ($\nu$) and wavelength ($\lambda$) are inversely proportional ($$c=\nu\lambda$$). This means that as frequency increases, wavelength decreases.Based on the provided table, the approximate frequency ranges for each band are:
 
   * **L-band:** 1-2 GHz
   * **X-band:** 8-12.5 GHz
@@ -26,7 +26,7 @@
 
 **Answer:** The major source of energy is **Emission from the Earth's surface**.
 
-**Concept:** Passive remote sensing utilizes energy that is naturally available. While the Sun is the primary source of energy for the visible and near-infrared parts of the spectrum, objects on the Earth's surface absorb this solar energy and re-emit it as thermal radiation, especially in the **Long-wave Infrared (LWIR)** region (beyond $8µm$). A passive sensor then detects this emitted thermal energy to gather information.
+**Concept:** Passive remote sensing utilizes energy that is naturally available. While the Sun is the primary source of energy for the visible and near-infrared parts of the spectrum, objects on the Earth's surface absorb this solar energy and re-emit it as thermal radiation, especially in the **Long-wave Infrared (LWIR)** region (beyond $$8µm$$). A passive sensor then detects this emitted thermal energy to gather information.
 
 -----
 
@@ -70,7 +70,7 @@ Based on these standard definitions, the answer for a vibration **parallel** to 
 
 **Answer:** Human eyes will not be able to see the **Infrared** portion of the electromagnetic spectrum.
 
-**Concept:** Our eyes are only sensitive to a small part of the electromagnetic spectrum called the **visible spectrum**, which ranges from approximately $0.4$ to $0.7 µm$. This is the energy range we perceive as light and color (red, green, and blue). The Sun provides energy across a much larger portion of the spectrum, including the infrared and ultraviolet regions, which our eyes cannot detect.
+**Concept:** Our eyes are only sensitive to a small part of the electromagnetic spectrum called the **visible spectrum**, which ranges from approximately $0.4$ to $$0.7 µm$$. This is the energy range we perceive as light and color (red, green, and blue). The Sun provides energy across a much larger portion of the spectrum, including the infrared and ultraviolet regions, which our eyes cannot detect.
 
 -----
 
@@ -97,15 +97,15 @@ Based on these standard definitions, the answer for a vibration **parallel** to 
 **Answer:** The wavelength of the wave is **0.2 m**.
 
 **Concept:** This is a direct application of the fundamental relationship between the speed of light ($c$), frequency ($\nu$), and wavelength ($\lambda$), given by the equation:
-$c = \nu\lambda$
+$$c = \nu\lambda$$
 Given:
 
-  * Frequency ($\nu$) = 1,500,000,000 Hz = $1.5 \times 10^9$ Hz
-  * Speed of light ($c$) = $3 \times 10^8$ m/s
+  * Frequency ($$\nu$$) = 1,500,000,000 Hz = $$1.5 \times 10^9$$ Hz
+  * Speed of light ($$c$$) = $$3 \times 10^8$$ m/s
 
 Solving for wavelength:
 
-$$\lambda = \frac{c}{\nu} = \frac{3 \times 10^8 \ m/s}{1.5 \times 10^9 \ Hz} = 0.2 \ m$$
+$$\lambda=\frac{c}{\nu}=\frac{3\times10^8 m/s}{1.5\times10^9 Hz}=0.2 m$$
 
 -----
 
@@ -152,9 +152,9 @@ $$\lambda = \frac{c}{\nu} = \frac{3 \times 10^8 \ m/s}{1.5 \times 10^9 \ Hz} = 0
 
 **Answer:** Non-selective scattering, Mie scattering, and Rayleigh scattering will occur respectively in **Medium 2, Medium 3, and Medium 1**.
 
-**Concept:** The type of scattering that occurs depends on the size of the atmospheric particles relative to the wavelength ($\lambda$) of the light.
+**Concept:** The type of scattering that occurs depends on the size of the atmospheric particles relative to the wavelength ($$\lambda$$) of the light.
 
-  * **Rayleigh Scattering** occurs when particle size is much smaller than the wavelength ($<\lambda/10$). This applies to **Medium 1** ($0.05\lambda$).
-  * **Mie Scattering** occurs when the particle size is approximately equal to the wavelength ($\approx \lambda$). This applies to **Medium 3** ($5\lambda$).
+  * **Rayleigh Scattering** occurs when particle size is much smaller than the wavelength ($$<\lambda/10$$). This applies to **Medium 1** ($$0.05\lambda$$).
+  * **Mie Scattering** occurs when the particle size is approximately equal to the wavelength ($$\approx\lambda$$). This applies to **Medium 3** ($$5\lambda$$).
   * **Non-selective Scattering** occurs when particle size is much larger than the wavelength ($>10\lambda$). This applies to **Medium 2** ($15\lambda$).
 
