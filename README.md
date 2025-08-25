@@ -104,6 +104,7 @@ Given:
   * Speed of light ($c$) = $3 \times 10^8$ m/s
 
 Solving for wavelength:
+
 $$\lambda = \frac{c}{\nu} = \frac{3 \times 10^8 \ m/s}{1.5 \times 10^9 \ Hz} = 0.2 \ m$$
 
 -----
@@ -153,7 +154,7 @@ $$\lambda = \frac{c}{\nu} = \frac{3 \times 10^8 \ m/s}{1.5 \times 10^9 \ Hz} = 0
 
 **Concept:** The type of scattering that occurs depends on the size of the atmospheric particles relative to the wavelength ($\lambda$) of the light.
 
-  * **Rayleigh Scattering** occurs when particle size is much smaller than the wavelength ($<\lambda/10$). This applies to **Medium 1** (0.05$\lambda$).
-  * **Mie Scattering** occurs when the particle size is approximately equal to the wavelength ($\approx \lambda$). This applies to **Medium 3** (5$\lambda$).
-  * **Non-selective Scattering** occurs when particle size is much larger than the wavelength ($$>10\lambda$$). This applies to **Medium 2** (15$$\lambda$$).
+  * **Rayleigh Scattering** occurs when particle size is much smaller than the wavelength ($<\lambda/10$). This applies to **Medium 1** ($0.05\lambda$).
+  * **Mie Scattering** occurs when the particle size is approximately equal to the wavelength ($\approx \lambda$). This applies to **Medium 3** ($5\lambda$).
+  * **Non-selective Scattering** occurs when particle size is much larger than the wavelength ($>10\lambda$). This applies to **Medium 2** ($15\lambda$).
 
